@@ -54,5 +54,6 @@ Adjust CLI options in `querypross.py` as needed.
 - Open an issue or submit a pull request with improvements.
 
 **License**
-- MIT (or choose an appropriate license)
+- No license has been selected for this project yet.
+- A license will be chosen and documented in this repository once the project terms are finalized.
 
