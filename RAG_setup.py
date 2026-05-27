@@ -51,7 +51,7 @@ def process_pdf(pdf_path):
 
     print("First 300 chars:\n", text[:300])
     print("Chunks:", chunks[:2])
-    print("Done spoiling everything.")
+    print("done process")
 
 # RUN IT UPPPP -bu humana kind idk spelling nigaa
 if __name__ == "__main__":
